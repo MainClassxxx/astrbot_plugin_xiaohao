@@ -1,4 +1,4 @@
-# helloworld
+# XiaoHao
 
 AstrBot 插件模板
 
